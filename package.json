@@ -1,0 +1,26 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Express homework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayblack388/friendfinder.git"
+  },
+  "keywords": [
+    "Express",
+    "friendFinder",
+    "bootcamp",
+    "homework"
+  ],
+  "author": "John Blackwell <jblackwell072588@gmail.com> (jayblack388@github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayblack388/friendfinder/issues"
+  },
+  "homepage": "https://github.com/jayblack388/friendfinder#readme"
+}
