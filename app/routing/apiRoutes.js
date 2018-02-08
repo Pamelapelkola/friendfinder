@@ -8,7 +8,4 @@ module.exports = (app)=>{
         friendData.push(req.body);
         res.json(true);
     });
-    app.post("/api/clear", ()=>{
-        friendData = [];
-    });
 };
