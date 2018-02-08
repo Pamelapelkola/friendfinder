@@ -1,4 +1,6 @@
 const path = require("path");
+const bodyParser = require('body-parser');
+
 
 module.exports = (app)=>{
     app.get("/survey", (req, res)=>{
